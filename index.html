@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>High School Graduation</title>
+    <link rel="stylesheet" href="libraries/frameworks/minimal/stylesheets/styles.css">
+    <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+        <link rel=stylesheet href="libraries/widgets/nvd3/css/nv.d3.css"></link>
+<link rel=stylesheet href="libraries/widgets/nvd3/css/rNVD3.css"></link>
+<link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+    <script src="libraries/widgets/nvd3/js/jquery-1.8.2.min.js"></script>
+<script src="libraries/widgets/nvd3/js/d3.v3.min.js"></script>
+<script src="libraries/widgets/nvd3/js/nv.d3.min-new.js"></script>
+<script src="libraries/widgets/nvd3/js/fisheye.js"></script>
+
+  </head>
+  <body>
+    <div class="wrapper">
+<header>
+  <h1>High School Graduation</h1>
+  <p>Hartford regional data and indicators</p>
+    <ol>
+    </ol>
+</header>
+
+      <section>
+        <h2>Data and limitations</h2>
+<p>Graduation rates in Connecticut are <a href="http://sdeportal.ct.gov/Cedar/WEB/ResearchandReports/DataBulletins.aspx">reported by SDE</a>. Beginning in 2011, cohort graduation rates are published, meaning the rates take into account dropouts and other changes from 9th through 12th grade. Documentation for the cohort graduation rates calculation is <a href="http://sdeportal.ct.gov/Cedar/Files/Pdf/Reports/cohortgraddocumentation.pdf">here</a></p>
+
+<p>The data as it currently stands has a few limitations. </p>
+
+<ul>
+<li>The data is two years old - the most recent data is for 2011. </li>
+<li>Since cohort graduation rates are new, we only have two years of data available. </li>
+<li>SDE releases data by district and by school. To roll this up for regional (or other aggregated) results, we need to know the &#39;cohort counts&#39; - the number of students in each cohort in the region. However the cohort counts have not been published by SDE. In the sample results below total enrollment across all grades was used in place of the cohort counts, so any regional results should be treated as approximate for the time being.</li>
+</ul>
+
+<p>Given the caveats above, we can still look at the 2010-11 graduation data. </p>
+
+<h2>What do we know?</h2>
+
+<p>Below are references for some local, regional and national reports that use high school graduation rates, with some details on how the data is used. </p>
+
+<h3>Local</h3>
+
+<ul>
+<li><a href="http://www.ctdol.state.ct.us/OWC/CETC/2013ReportCard.pdf">CETC Report Card</a>: The Report Card covers graduation rates for the state, noting that &quot;Connecticut appears to have made very little progress in on-time graduation rates over the past 5 years. In addition, the disparity between white and minority graduation rates has improved only marginally.&quot; The report has 2012 data for the state. </li>
+<li><a href="http://www.cga.ct.gov/kid/rba/results.asp">CT Kids Report Card</a>: Graduation rates appear under the &#39;Future Success&#39; domain although the <a href="http://www.cga.ct.gov/kid/rba/Docs/2013/FINAL%20Jan%202013%20Annual%20Report%20on%20PA%2011-109%20CT%20Children%27s%20%20Report%20%20Card.pdf">&#39;spotlight indicator&#39;</a> for this domain is 3rd grade reading.</li>
+<li><a href="http://www.capitalworkforce.org/ctworks/documents/Community_Workforce_Development_Report_Card_2011ff.pdf">CWP Community Workforce Development Report Card</a>: Graduation rates are reported for the state and the City of Hartford.</li>
+<li><a href="http://www.cadh.org/health-equity/health-equity-index.html">Health Equity Index</a>: CADH&#39;s health equity index includes graduation rates in the &#39;Education&#39; domain. A <a href="http://hhs.hartford.gov/Shared%20Documents/Community%20health%20needs%20assessment%202012.pdf">health needs assessment for Hartford</a> from 2012 uses the health equity index and refers to low graduation rates in Hartford as linked to health outcomes: &quot;The strong correlations suggest that a higher educational attainment leads to better health throughout an individual’s lifespan.&quot;<br></li>
+<li><a href="http://www.ct.gov/opm/cwp/view.asp?a=2998&amp;Q=490946">Population Results Working Group</a>: This working group has included graduation rates as a headline indicator, under &#39;Education,&#39; with a special breakout for graduation rates for the disabled.<br></li>
+<li><a href="http://www.cahs.org/kidscount.asp">KidsCount</a>: includes graduation rates from SDE. The report commentary calls out that &quot;the [district] data does not fairly reflect what is happening in the Hartford region&quot; though, due to the Sheff reforms. </li>
+</ul>
+
+<h3>Other relevant efforts</h3>
+
+<ul>
+<li><a href="http://www.bostonindicators.org/">Boston Indicators Project</a>: The <a href="http://www.bostonindicators.org/%7E/media/Files/IndicatorsReports/Reports/Indicator%20Reports/Indicators2012.pdf">most recent report</a> mostly covers wages and employment for high school graduates in the workforce.</li>
+<li><a href="http://pvpc.org/resources/datastats/state-of-people/stateofthepeople2013.pdf">Pioneer Valley State of the People</a>: Looks at graduation rates by town and for the region, in the &#39;Education&#39; section. (The region gets a &#39;D+.&#39;)</li>
+<li><a href="http://www.rifoundation.org/CommunityLeadership/CommunityDashboard/tabid/1157/Default.aspx">Rhode Island Community Foundation Dashboard</a>: Uses four-year and six-year graduation rates. </li>
+</ul>
+
+<h2>Sample results</h2>
+
+<p>This section includes results for the most recent graduation rates data for the current 30-town CRCOG region. </p>
+
+<p>For the region, high school graduation rates improved between 2010 and 2011, from 81 to 83 percent. In other words, about 4 out of 5 students graduate within four years. </p>
+
+<p><img src="assets/fig/unnamed-chunk-1.png" alt="plot of chunk unnamed-chunk-1"> </p>
+
+<p>Graduation rates were lower in the eight <a href="http://www.sde.ct.gov/sde/cwp/view.asp?a=2683&amp;Q=334226">Alliance Districts</a> in the region, around 70 percent, versus 90 percent in the remaining districts (which includes charter and magnet school districts). Rates improved in both sets of districts between 2010 and 2011. </p>
+
+<p><img src="assets/fig/unnamed-chunk-2.png" alt="plot of chunk unnamed-chunk-2"> </p>
+
+<p>The same disparities can be seen for some of the other demographic breakouts available. By gender, female graduation rates are higher than male. By race / ethnicity, graduation rates for Hispanics are lowest in the region, with fewer than 2/3rds graduating on-time. Graduation rates for black students are around 75 percent. </p>
+
+<p><img src="assets/fig/unnamed-chunk-3.png" alt="plot of chunk unnamed-chunk-3"> </p>
+
+<h2>District-level data</h2>
+
+<p>By district, rates range from around 95 percent (for Glastonbuy and Granby) to close to 60 percent in Hartford. The Alliance Districts again have lower rates; Enfield and Stafford are the only non-Alliance districts with below-average graduation rates for the region. </p>
+
+<p>It appears that the better-performing districts generally improved over this period, while more of the worse-performing districts saw declines in graduation rates, indicating an increasing gap across districts.</p>
+
+<p><img src="assets/fig/unnamed-chunk-4.png" alt="plot of chunk unnamed-chunk-4"> </p>
+
+<p>Graduation rates are shared with the following additional breakouts: </p>
+
+<ul>
+<li>Race / ethnicity</li>
+<li>Gender</li>
+<li>Special education</li>
+<li>English language learner (ELL)</li>
+<li>Eligibility for free / reduced-price lunch (as a proxy for household income)</li>
+</ul>
+
+<p>The graphs below display data by district for each of these breakouts to allow a look at disparities by each factor. To simplify the display, the results are the average of graduation rates for the 2010 and 2011 academic years. </p>
+
+<p>By race / ethnicity: </p>
+
+<p><img src="assets/fig/unnamed-chunk-5.png" alt="plot of chunk unnamed-chunk-5"> </p>
+
+<p>By gender: </p>
+
+<p><img src="assets/fig/unnamed-chunk-6.png" alt="plot of chunk unnamed-chunk-6"> </p>
+
+<p>By special-education status: </p>
+
+<p><img src="assets/fig/unnamed-chunk-7.png" alt="plot of chunk unnamed-chunk-7"> </p>
+
+<p>By ELL status: </p>
+
+<p><img src="assets/fig/unnamed-chunk-8.png" alt="plot of chunk unnamed-chunk-8"> </p>
+
+<p>By eligibility for free / reduced-price lunch: </p>
+
+<p><img src="assets/fig/unnamed-chunk-9.png" alt="plot of chunk unnamed-chunk-9"> </p>
+
+<p>And finally, since graduation rates are released for individual high-schools, we can look at the rates by school. </p>
+
+<p><img src="assets/fig/unnamed-chunk-10.png" alt="plot of chunk unnamed-chunk-10"> </p>
+
+      </section>
+      <footer>
+        <p>Maintained by <a href="http://github.com/">
+          Scott Gaul
+        </a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by 
+          <a href="https://github.com/orderedlist">orderedlist</a></small>
+        </p>
+      </footer>    </div>
+    <script src="libraries/frameworks/minimal/javascripts/scale.fix.js"></script>
+  </body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>

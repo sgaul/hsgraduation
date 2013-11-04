@@ -1,0 +1,197 @@
+Inst,dist,District Name,Indian American,Asian,Black,White,Hispanic,Pacific Islander,Multiple Races,All Students,Female,Male
+11,1,Andover School District,NA,NA,NA,293,NA,NA,8,314,132,182
+11,2,Ansonia School District,19,16,525,1267,650,37,NA,2514,1214,1300
+11,3,Ashford School District,NA,11,NA,406,39,NA,19,481,238,243
+11,4,Avon School District,NA,318,106,2796,176,11,84,3495,1727,1768
+11,5,Barkhamsted School District,NA,NA,NA,344,NA,NA,NA,357,157,200
+11,7,Berlin School District,NA,109,34,2571,209,NA,91,3015,1435,1580
+11,8,Bethany School District,NA,37,9,430,12,NA,NA,491,240,251
+11,9,Bethel School District,NA,189,68,2280,376,NA,52,2970,1428,1542
+11,11,Bloomfield School District,6,31,1617,210,194,NA,92,2151,1041,1110
+11,12,Bolton School District,NA,14,31,796,30,NA,21,892,453,439
+11,13,Bozrah School District,NA,NA,11,206,11,NA,NA,234,121,113
+11,14,Branford School District,NA,156,72,2831,206,NA,42,3312,1655,1657
+11,15,Bridgeport School District,171,595,7812,1699,9790,14,44,20125,9838,10287
+11,17,Bristol School District,13,246,538,5844,1592,NA,209,8442,4055,4387
+11,18,Brookfield School District,7,164,45,2454,160,NA,NA,2834,1425,1409
+11,19,Brooklyn School District,NA,17,20,842,34,NA,14,930,441,489
+11,21,Canaan School District,NA,NA,NA,80,NA,NA,NA,86,48,38
+11,22,Canterbury School District,NA,NA,7,464,25,NA,14,515,223,292
+11,23,Canton School District,NA,37,59,1567,68,NA,7,1738,873,865
+11,24,Chaplin School District,NA,NA,NA,155,14,NA,10,182,90,92
+11,25,Cheshire School District,7,431,99,4054,183,NA,10,4784,2366,2418
+11,26,Chester School District,NA,7,NA,244,NA,NA,NA,259,142,117
+11,27,Clinton School District,9,49,14,1724,164,NA,39,2002,972,1030
+11,28,Colchester School District,27,63,94,2660,140,NA,25,3009,1497,1512
+11,29,Colebrook School District,NA,NA,NA,90,NA,NA,8,99,51,48
+11,30,Columbia School District,NA,NA,NA,486,24,NA,7,524,270,254
+11,31,Cornwall School District,NA,NA,NA,92,NA,NA,9,106,50,56
+11,32,Coventry School District,NA,18,19,1600,75,NA,62,1776,897,879
+11,33,Cromwell School District,NA,111,184,1536,145,NA,NA,1982,942,1040
+11,34,Danbury School District,10,800,934,4632,3960,NA,149,10488,5100,5388
+11,35,Darien School District,10,162,17,4469,137,NA,11,4806,2334,2472
+11,36,Deep River School District,NA,NA,NA,329,24,NA,NA,357,184,173
+11,37,Derby School District,NA,32,212,817,353,7,19,1440,704,736
+11,39,Eastford School District,NA,NA,NA,164,NA,NA,NA,174,79,95
+11,40,East Granby School District,NA,28,46,709,43,NA,15,845,401,444
+11,41,East Haddam School District,NA,11,11,1199,32,NA,13,1269,632,637
+11,42,East Hampton School District,NA,39,15,1789,74,NA,23,1942,966,976
+11,43,East Hartford School District,24,391,2429,1291,2918,NA,101,7155,3429,3726
+11,44,East Haven School District,NA,148,98,2422,563,NA,35,3270,1591,1679
+11,45,East Lyme School District,7,287,64,2478,117,NA,24,2978,1494,1484
+11,46,Easton School District,NA,52,9,923,53,NA,14,1053,478,575
+11,47,East Windsor School District,6,73,143,846,154,NA,61,1284,630,654
+11,48,Ellington School District,NA,144,92,2319,112,NA,75,2747,1358,1389
+11,49,Enfield School District,20,117,352,4386,518,9,245,5647,2727,2920
+11,50,Essex School District,NA,19,8,512,15,NA,NA,558,272,286
+11,51,Fairfield School District,24,520,234,8365,872,NA,270,10289,5079,5210
+11,52,Farmington School District,9,550,198,3074,202,NA,8,4041,1940,2101
+11,53,Franklin School District,NA,NA,NA,179,14,NA,NA,204,95,109
+11,54,Glastonbury School District,12,566,189,5305,415,NA,195,6686,3362,3324
+11,56,Granby School District,6,22,88,1945,62,NA,32,2155,1054,1101
+11,57,Greenwich School District,8,710,273,6113,1468,NA,217,8790,4250,4540
+11,58,Griswold School District,28,41,75,1690,88,NA,40,1965,967,998
+11,59,Groton School District,81,332,587,2975,768,9,195,4947,2404,2543
+11,60,Guilford School District,NA,125,44,3215,199,NA,69,3656,1792,1864
+11,62,Hamden School District,8,441,1801,2536,900,NA,130,5817,2804,3013
+11,63,Hampton School District,NA,NA,NA,113,9,NA,NA,126,47,79
+11,64,Hartford School District,61,536,6915,2033,10386,14,934,20879,10183,10696
+11,65,Hartland School District,NA,NA,6,212,NA,NA,NA,225,101,124
+11,67,Hebron School District,NA,16,6,976,37,NA,12,1047,501,546
+11,68,Kent School District,NA,6,NA,231,23,NA,17,278,131,147
+11,69,Killingly School District,61,66,104,2316,125,NA,NA,2676,1323,1353
+11,71,Lebanon School District,35,19,NA,1182,42,NA,NA,1283,657,626
+11,72,Ledyard School District,138,113,162,1927,196,NA,35,2573,1279,1294
+11,73,Lisbon School District,NA,9,NA,409,21,NA,34,477,220,257
+11,74,Litchfield School District,NA,20,11,1036,37,9,8,1122,563,559
+11,76,Madison School District,NA,125,25,3180,64,NA,47,3447,1679,1768
+11,77,Manchester School District,31,494,1370,2742,1499,NA,268,6405,3029,3376
+11,78,Mansfield School District,NA,117,31,969,144,NA,63,1324,635,689
+11,79,Marlborough School District,NA,21,6,599,31,NA,15,672,329,343
+11,80,Meriden School District,36,246,1002,2870,3891,45,137,8227,3976,4251
+11,83,Middletown School District,12,274,1106,2737,759,NA,142,5033,2453,2580
+11,84,Milford School District,11,552,330,5499,397,NA,NA,6794,3266,3528
+11,85,Monroe School District,15,119,51,3138,197,NA,54,3574,1717,1857
+11,86,Montville School District,51,216,97,1785,202,NA,207,2561,1256,1305
+11,88,Naugatuck School District,7,165,315,3008,824,7,188,4514,2154,2360
+11,89,New Britain School District,18,252,1522,2281,5956,NA,112,10144,4843,5301
+11,90,New Canaan School District,32,189,42,3697,131,8,49,4148,2057,2091
+11,91,New Fairfield School District,NA,57,44,2585,167,NA,10,2868,1360,1508
+11,92,New Hartford School District,NA,NA,NA,545,18,NA,9,580,298,282
+11,93,New Haven School District,36,445,9152,3090,7801,NA,31,20555,10242,10313
+11,94,Newington School District,NA,373,221,2913,652,NA,176,4340,2120,2220
+11,95,New London School District,31,44,812,496,1455,6,117,2961,1357,1604
+11,96,New Milford School District,NA,187,89,3892,414,NA,80,4664,2237,2427
+11,97,Newtown School District,NA,193,66,4715,244,NA,62,5282,2544,2738
+11,98,Norfolk School District,NA,NA,NA,118,NA,NA,NA,124,59,65
+11,99,North Branford School District,NA,43,47,1993,87,NA,NA,2175,1097,1078
+11,100,North Canaan School District,NA,NA,NA,263,30,NA,9,308,160,148
+11,101,North Haven School District,7,241,137,2865,211,6,75,3542,1717,1825
+11,102,North Stonington School Distri,NA,NA,20,711,21,NA,24,781,368,413
+11,103,Norwalk School District,22,541,2317,4060,4083,NA,88,11111,5408,5703
+11,104,Norwich School District,39,283,698,1458,994,13,331,3816,1840,1976
+11,106,Old Saybrook School District,NA,95,30,1341,72,NA,15,1555,796,759
+11,107,Orange School District,NA,140,33,1026,54,NA,11,1267,640,627
+11,108,Oxford School District,9,49,36,1948,89,NA,6,2138,1071,1067
+11,109,Plainfield School District,31,54,96,2238,134,NA,NA,2562,1262,1300
+11,110,Plainville School District,9,56,108,1854,293,NA,81,2403,1161,1242
+11,111,Plymouth School District,9,23,35,1534,41,NA,NA,1647,771,876
+11,112,Pomfret School District,NA,18,7,436,9,NA,NA,471,234,237
+11,113,Portland School District,NA,23,29,1174,82,NA,52,1361,678,683
+11,114,Preston School District,7,10,NA,342,16,NA,17,396,204,192
+11,116,Putnam School District,6,11,17,1091,78,NA,51,1257,588,669
+11,117,Redding School District,NA,30,6,1048,44,NA,71,1205,599,606
+11,118,Ridgefield School District,NA,243,33,4764,234,NA,71,5349,2584,2765
+11,119,Rocky Hill School District,NA,364,95,1887,165,NA,14,2529,1254,1275
+11,121,Salem School District,NA,17,12,398,14,NA,NA,443,213,230
+11,122,Salisbury School District,NA,6,6,255,17,NA,26,310,157,153
+11,123,Scotland School District,NA,NA,NA,125,6,NA,NA,132,73,59
+11,124,Seymour School District,6,78,91,1914,200,NA,NA,2293,1132,1161
+11,125,Sharon School District,NA,NA,NA,173,NA,NA,6,191,90,101
+11,126,Shelton School District,15,301,176,4258,447,NA,24,5225,2549,2676
+11,127,Sherman School District,NA,NA,NA,373,7,NA,14,397,191,206
+11,128,Simsbury School District,NA,265,189,3956,222,NA,27,4659,2206,2453
+11,129,Somers School District,NA,25,30,1483,47,NA,23,1613,797,816
+11,131,Southington School District,11,218,118,5837,348,NA,160,6695,3293,3402
+11,132,South Windsor School District,15,504,255,3314,251,NA,6,4345,2060,2285
+11,133,Sprague School District,NA,NA,NA,289,38,NA,41,375,182,193
+11,134,Stafford School District,NA,24,11,1623,92,NA,68,1819,916,903
+11,135,Stamford School District,11,1284,3140,5537,5397,NA,101,15471,7520,7951
+11,136,Sterling School District,NA,NA,NA,449,16,NA,18,489,228,261
+11,137,Stonington School District,9,NA,11,2310,56,NA,13,2401,1153,1248
+11,138,Stratford School District,20,217,1596,3408,1846,NA,153,7242,3573,3669
+11,139,Suffield School District,NA,57,74,2252,88,NA,6,2479,1262,1217
+11,140,Thomaston School District,NA,12,14,1007,17,NA,NA,1052,513,539
+11,141,Thompson School District,NA,NA,NA,1112,43,NA,25,1185,591,594
+11,142,Tolland School District,6,98,44,2731,64,NA,NA,2943,1437,1506
+11,143,Torrington School District,11,153,234,3188,784,NA,86,4459,2117,2342
+11,144,Trumbull School District,14,446,291,5679,488,NA,17,6938,3452,3486
+11,145,Union School District,NA,NA,NA,71,NA,NA,NA,73,40,33
+11,146,Vernon School District,17,191,491,2429,414,NA,26,3568,1708,1860
+11,147,Voluntown School District,NA,NA,NA,277,12,NA,22,319,167,152
+11,148,Wallingford School District,8,286,146,5050,901,NA,NA,6392,3253,3139
+11,151,Waterbury School District,99,329,4687,4142,8475,25,304,18061,8777,9284
+11,152,Waterford School District,27,162,112,2168,190,NA,24,2683,1265,1418
+11,153,Watertown School District,11,76,48,2728,175,NA,60,3099,1509,1590
+11,154,Westbrook School District,NA,13,NA,833,61,NA,8,922,444,478
+11,155,West Hartford School District,27,1097,896,6236,1538,NA,271,10068,4952,5116
+11,156,West Haven School District,9,207,1318,2450,1850,NA,224,6059,2956,3103
+11,157,Weston School District,NA,91,30,2250,61,NA,43,2479,1191,1288
+11,158,Westport School District,6,283,87,5103,196,NA,62,5737,2824,2913
+11,159,Wethersfield School District,NA,176,160,2780,499,NA,47,3670,1804,1866
+11,160,Willington School District,NA,6,NA,438,29,NA,12,491,240,251
+11,161,Wilton School District,NA,289,70,3871,74,NA,NA,4311,2113,2198
+11,162,Winchester School District,NA,11,29,566,68,NA,6,687,294,393
+11,163,Windham School District,15,36,174,864,2094,NA,59,3242,1502,1740
+11,164,Windsor School District,NA,177,1616,1054,511,NA,125,3490,1699,1791
+11,165,Windsor Locks School District,NA,150,150,1236,172,NA,35,1746,864,882
+11,166,Wolcott School District,NA,39,44,2328,157,NA,75,2649,1298,1351
+11,167,Woodbridge School District,NA,117,23,550,32,NA,8,737,357,380
+11,169,Woodstock School District,NA,11,NA,813,32,NA,29,888,432,456
+12,201,Regional School District 01,NA,NA,6,422,21,NA,12,463,235,228
+12,204,Regional School District 04,NA,9,12,889,40,NA,NA,957,501,456
+12,205,Regional School District 05,6,250,67,2003,95,NA,NA,2425,1173,1252
+12,206,Regional School District 06,NA,11,12,970,29,NA,9,1037,535,502
+12,207,Regional School District 07,NA,16,7,1105,20,NA,NA,1150,583,567
+12,208,Regional School District 08,NA,29,15,1706,32,NA,NA,1784,839,945
+12,209,Regional School District 09,NA,24,7,931,30,NA,14,1007,519,488
+12,210,Regional School District 10,NA,47,12,2494,94,NA,12,2663,1278,1385
+12,211,Regional School District 11,NA,NA,6,266,15,NA,NA,292,131,161
+12,212,Regional School District 12,NA,7,10,819,37,NA,13,886,409,477
+12,213,Regional School District 13,NA,39,10,1836,57,NA,38,1982,960,1022
+12,214,Regional School District 14,NA,36,8,1912,34,NA,NA,1996,1051,945
+12,215,Regional School District 15,9,225,56,3744,169,NA,15,4218,2032,2186
+12,216,Regional School District 16,NA,25,48,2235,138,NA,30,2477,1253,1224
+12,217,Regional School District 17,NA,54,33,2224,53,NA,15,2380,1182,1198
+12,218,Regional School District 18,NA,50,NA,1320,51,NA,22,1448,707,741
+12,219,Regional School District 19,NA,68,26,1067,55,NA,NA,1226,614,612
+13,261,Jumoke Academy District,NA,NA,465,NA,19,NA,NA,488,279,209
+13,263,Odyssey Community School Distr,NA,22,59,144,54,NA,31,314,148,166
+13,264,Integrated Day Charter School,NA,26,28,203,42,NA,30,330,162,168
+13,265,Interdistrict School for Arts,NA,NA,52,51,83,NA,NA,191,107,84
+13,268,Common Ground High School Dist,NA,NA,47,36,72,NA,9,165,72,93
+13,269,The Bridge Academy District,NA,NA,148,NA,99,NA,22,276,144,132
+13,270,Side By Side Charter School Di,NA,24,67,54,76,NA,11,232,110,122
+13,272,Explorations District,NA,NA,NA,66,7,NA,NA,74,39,35
+13,278,Trailblazers Academy District,NA,NA,92,7,70,NA,NA,170,72,98
+13,279,Amistad Academy District,NA,NA,538,11,290,NA,14,857,424,433
+13,280,New Beginnings Inc. Family Aca,NA,NA,270,7,80,NA,NA,361,198,163
+13,282,Stamford Academy,NA,NA,100,NA,33,NA,NA,141,49,92
+13,283,Park City Prep Charter School,NA,NA,158,NA,89,NA,NA,257,122,135
+13,285,Bridgeport Achievement First,NA,NA,296,NA,236,NA,NA,543,258,285
+13,286,Highville Charter School Distr,NA,NA,304,NA,23,NA,7,337,180,157
+13,288,Achievement First Hartford Aca,NA,NA,645,NA,106,NA,6,761,350,411
+13,289,Elm City College Preparatory S,NA,NA,472,6,115,NA,NA,600,315,285
+14,241,Capitol Region Education Counc,20,313,1748,1793,1525,NA,159,5559,2726,2833
+14,242,Education Connection,7,NA,11,134,49,NA,NA,208,94,114
+14,243,Cooperative Educational Servic,NA,20,246,278,258,NA,10,813,322,491
+14,244,Area Cooperative Educational S,NA,91,607,712,515,NA,24,1956,798,1158
+14,245,Learn,8,64,236,655,460,NA,87,1514,763,751
+14,253,Eastern Connecticut Regional E,NA,NA,16,232,35,NA,7,297,149,148
+15,336,Unified School District #1,NA,NA,402,106,233,NA,NA,745,29,716
+15,337,Department of Mental Health an,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,347,Unified School District #2,NA,NA,78,34,59,NA,NA,180,32,148
+16,900,Connecticut Technical High Sch,73,103,1535,5661,3147,NA,132,10656,4030,6626
+22,901,Norwich Free Academy,49,79,163,1553,305,NA,161,2315,1249,1066
+22,902,The Gilbert School,NA,9,14,433,63,NA,22,542,261,281
+22,903,Woodstock Academy,NA,52,NA,994,39,NA,7,1098,572,526
