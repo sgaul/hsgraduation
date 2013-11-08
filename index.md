@@ -23,7 +23,7 @@ The data as it currently stands has a few limitations.
 
 Given the caveats above, we can still look at the 2010-11 graduation data. 
 
-## What do we know?
+## What do we already know?
 
 Below are references for some local, regional and national reports that use high school graduation rates, with some details on how the data is used. 
 
@@ -64,7 +64,7 @@ The same disparities can be seen for some of the other demographic breakouts ava
 
 ## District-level data
 
-By district, rates range from around 95 percent (for Glastonbuy and Granby) to close to 60 percent in Hartford. The Alliance Districts again have lower rates; Enfield and Stafford are the only non-Alliance districts with below-average graduation rates for the region. 
+By district, rates range from around 95 percent (for Glastonbury and Granby) to close to 60 percent in Hartford. The Alliance Districts again have lower rates; Enfield and Stafford are the only non-Alliance districts with below-average graduation rates for the region. 
 
 It appears that the better-performing districts generally improved over this period, while more of the worse-performing districts saw declines in graduation rates, indicating an increasing gap across districts.
 
